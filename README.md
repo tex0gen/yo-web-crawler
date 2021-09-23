@@ -2,7 +2,7 @@
 
 ## Installation
 
-First, install [Yeoman](http://yeoman.io) and generator-crawl using [npm](https://www.npmjs.com/) (we assume you have pre-installed [node.js](https://nodejs.org/)).
+First, install [NodeJS](https://nodejs.org/en/) and then follow the commands below:
 
 ```bash
 npm install -g yo
